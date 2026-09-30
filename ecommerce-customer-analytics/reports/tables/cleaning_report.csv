@@ -1,0 +1,7 @@
+,value
+raw_rows,541909.0
+duplicate_rows,5268.0
+cancelled_rows,9288.0
+missing_customer_id,135080.0
+clean_rows,519488.0
+rows_removed_pct,4.14

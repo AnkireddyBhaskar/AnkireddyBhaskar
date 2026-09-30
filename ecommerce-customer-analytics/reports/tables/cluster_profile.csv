@@ -1,0 +1,5 @@
+Cluster,Name,Customers,AvgRecency,AvgFrequency,AvgMonetary,TotalRevenue,RevenueShare_pct
+0,VIP,680,11.36,13.9,7848.74,5337143.68,64.25
+1,Loyal,1187,69.31,4.09,1657.86,1967881.43,23.69
+2,Occasional,813,16.79,2.18,552.04,448804.66,5.4
+3,Lapsed,1642,180.27,1.31,336.67,552814.78,6.66
